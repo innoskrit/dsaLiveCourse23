@@ -37,8 +37,3 @@ class Tribonacci {
         System.out.println("Max number of inprogress calculations: " + maxCount);
     }
 }
-
-/*
-    Operations: 3^(n-2)-1 = 
-
-*/
